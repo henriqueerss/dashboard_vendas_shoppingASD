@@ -4,9 +4,9 @@ A simple Streamlit app template for you to modify!
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 
-### How to run it on your own machine
+### Como rodar na máquina
 
-1. Install the requirements
+1. Instalar o "requirements"
 
    ```
    $ pip install -r requirements.txt
